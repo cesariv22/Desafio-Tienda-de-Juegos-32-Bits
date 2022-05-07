@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "sekiro",
+    "stock": 100,
+    "precio": 30000,
+    "color": "red",
+    "destacado": true
+  },
+  {
+    "codigo": 2,
+    "nombre": "fifa 21",
+    "stock": 100,
+    "precio": 25000,
+    "color": "blue",
+    "destacado": false
+  },
+  {
+    "codigo": 3,
+    "nombre": "gear of war 4",
+    "stock": 100,
+    "precio": 15000,
+    "color": "green",
+    "destacado": true
+  },
+  {
+    "codigo": 4,
+    "nombre": "mario tennis aces",
+    "stock": 100,
+    "precio": 35000,
+    "color": "yellow",
+    "destacado": false
+  },
+  {
+    "codigo": 5,
+    "nombre": "bloodborne",
+    "stock": 100,
+    "precio": 10000,
+    "color": "blue",
+    "destacado": false
+  },
+  {
+    "codigo": 6,
+    "nombre": "forza horizon 4",
+    "stock": 100,
+    "precio": 20000,
+    "color": "red",
+    "destacado": true
+  }
+]
